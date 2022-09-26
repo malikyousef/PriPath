@@ -8,6 +8,6 @@ Link to the paper :  https://www.researchsquare.com/article/rs-1449467/latest.pd
  
  ## The contecnt of teh MetaNode PriPath is : ##
  
-![alt text](https://github.com/malikyousef/PriPath/blob/main/PriPath_main.PNG?raw=true)
+![alt text](https://github.com/malikyousef/PriPath/blob/main/PripPath_MetaNode.JPG?raw=true)
 
  
