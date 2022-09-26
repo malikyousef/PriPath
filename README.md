@@ -1,4 +1,4 @@
-PriPath: Identifying Affected  Pathways from Differential Gene Expression via Grouping, Scoring and Modeling with an Embedded Machine Learning Approach  
+**PriPath: Identifying Affected  Pathways from Differential Gene Expression via Grouping, Scoring and Modeling with an Embedded Machine Learning Approach**  
 Link to the paper :  https://www.researchsquare.com/article/rs-1449467/latest.pdf
 
 ** Visit this page for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow **
