@@ -5,3 +5,5 @@ The following is an example of the structure of an excel format, you can downloa
 # The following is how the Knime workflow look like ##
 The node "Read Excel" should be configure to reach the location of the excel file. The workflow will generate an automatic output file name by replacing the file extension of xlsx with table.
 ![alt text](https://github.com/malikyousef/PriPath/blob/main/PreProcessGEO.JPG?raw=true)
+## The output table file will look like ##
+![alt text](https://github.com/malikyousef/PriPath/blob/main/GDS484_table_format_image.JPG?raw=true)
