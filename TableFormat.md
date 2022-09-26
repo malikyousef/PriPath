@@ -1,6 +1,7 @@
 ## Convert gene expression excel format (.xlsx)  to Knime Table format (.table) ##
-You need to download the Knime workflow name ProcessGEO_data.knwf that take as input an excel format. The fellwoing is an example of the structure of the excel format
+You need to download the Knime workflow name **ProcessGEO_data.knwf** that takes as input an excel format. 
+The following is an example of the structure of an excel format, you can download the source file **GDS484.xlsx**. 
 ![alt text](https://github.com/malikyousef/PriPath/blob/main/GDS484.JPG?raw=true)
-The fellwoing is how the Knime workflow look like :
-
+# The following is how the Knime workflow look like ##
+The node "Read Excel" should be configure to reach the location of the excel file. The workflow will generate an automatic output file name by replacing the file extension of xlsx with table.
 ![alt text](https://github.com/malikyousef/PriPath/blob/main/PreProcessGEO.JPG?raw=true)
