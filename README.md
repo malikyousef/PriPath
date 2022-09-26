@@ -15,4 +15,4 @@ Link to the paper :  https://www.researchsquare.com/article/rs-1449467/latest.pd
  ![alt text](https://github.com/malikyousef/PriPath/blob/main/Ttest_and_GSM.JPG?raw=true)
 
 ## The 3 main component of G-S-M ##
- ![alt text](https://github.com/malikyousef/PriPath/blob/main/G-S-M_all_steps?raw=true)
+ ![alt text](https://github.com/malikyousef/PriPath/blob/main/G-S-M_all_steps.JPG?raw=true)
