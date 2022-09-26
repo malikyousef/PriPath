@@ -2,6 +2,7 @@ PriPath: Identifying Affected  Pathways from Differential Gene Expression via Gr
 Link to the paper :  https://www.researchsquare.com/article/rs-1449467/latest.pdf
 
 ** Visit this page for instruction in how to prepare the dataset into Tbale format using a Knime workflow **
+https://github.com/malikyousef/PriPath/blob/main/TableFormat.md
 <br> 
 ## The main workflow is: ##
 
