@@ -5,7 +5,7 @@ See this [page](https://github.com/malikyousef/PriPath/blob/main/pages/SettingsK
 <br>
 Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/TableFormat.md) for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
 <br>
-Visit this [page] for the outputs of PriPath.
+Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/outputs.md) for the outputs of PriPath.
 <br> 
 The Knime workflow name is "PriPath_Sep_2022.knwf" that you might download and run throug the Knime platform
 
