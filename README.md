@@ -1,7 +1,7 @@
 **PriPath: Identifying Affected  Pathways from Differential Gene Expression via Grouping, Scoring and Modeling with an Embedded Machine Learning Approach**  
 Link to the paper :  https://www.researchsquare.com/article/rs-1449467/latest.pdf
 <br>
-See this [page]() for information about setting Knime.
+See this [page](https://github.com/malikyousef/PriPath/blob/697b1d659a4aa83e91d6043c90d7ade009a65cfc/SettingsKnime.md) for information about setting Knime.
 Visit this page for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
 https://github.com/malikyousef/PriPath/blob/main/TableFormat.md
 <br> 
