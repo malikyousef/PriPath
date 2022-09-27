@@ -15,7 +15,7 @@ Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/outputs
 <br> 
 The Knime workflow name is "PriPath_Sep_2022.knwf" that you might download and run throug the Knime platform
 
-## The main workflow is: ##
+## PriPath main workflow is: ##
 
 **Running the workflow:**
 
