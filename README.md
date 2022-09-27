@@ -12,7 +12,7 @@ Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/TableFo
 Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/GroupingFile.md) for instruction in how to upload the Groups file.  
 Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/outputs.md) for the outputs of PriPath.
 <br> 
-The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](PriPath_Sep_2022.knwf) and run throug the [Knime](https://www.knime.com/){:target="_blank"} platform
+The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](PriPath_Sep_2022.knwf) and run throug the [Knime](https://www.knime.com/)platform
 
 ## PriPath main workflow is: ##
 
