@@ -7,11 +7,11 @@ This is the link for downloading Knime: https://www.knime.com/downloads
 For more information about the Knime platform you might visit https://www.knime.com/software-overview
 
 
-See this [page](pages/SettingsKnime.md)for information about setting Knime.
+See this [page](pages/SettingsKnime.md) for information about setting Knime.
 <br>
-Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/TableFormat.md)for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
+Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/TableFormat.md) for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
 <br>
-Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/outputs.md)for the outputs of PriPath.
+Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/outputs.md) for the outputs of PriPath.
 <br> 
 The Knime workflow name is "PriPath_Sep_2022.knwf" that you might download and run throug the Knime platform
 
