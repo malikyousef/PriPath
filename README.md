@@ -5,8 +5,6 @@ Link to the paper :  https://www.researchsquare.com/article/rs-1449467/latest.pd
 PriPath tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
 This is the link for downloading Knime: https://www.knime.com/downloads<br>
 For more information about the Knime platform you might visit https://www.knime.com/software-overview
-GroupingFile.md
-
 See this [page](pages/SettingsKnime.md) for information about setting Knime.
 <br>
 Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/TableFormat.md) for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
