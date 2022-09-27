@@ -4,4 +4,4 @@ You need to reach the MetaNode called **GroupsKEGGs** <br>
 The pathway for it is **PriPath->GroupsKEGGs** <br>
 The following is how the GroupsKEGGs look like:
 
-
+![alt text](https://github.com/malikyousef/PriPath/blob/main/images/upload_groups_file.PNG?raw=true)
