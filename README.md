@@ -1,6 +1,7 @@
 **PriPath: Identifying Affected  Pathways from Differential Gene Expression via Grouping, Scoring and Modeling with an Embedded Machine Learning Approach**  
 Link to the paper :  https://www.researchsquare.com/article/rs-1449467/latest.pdf
 <br>
+## Knime ##
 PriPath tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
 This is the link for downloading Knime: https://www.knime.com/downloads
 For more information about the Knime platform you might visit https://www.knime.com/software-overview
