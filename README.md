@@ -10,9 +10,11 @@ The Knime workflow name is "PriPath_Sep_2022.knwf" that you might download and r
 
 ## The main workflow is: ##
 <br>
-** Running the workflow: **<br>
+**Running the workflow:**
+<br>
 - You need to use the node “MCCV Iterations” in order to specify the number of Monte Carlo Cross Validation (MCCV) iterations, for example 10 or 100.
 - You need to configure the node “List Files/Folders” to point it to the folder that has the gene expression dataset in a table format (as described above).
+
 ![alt text](https://github.com/malikyousef/PriPath/blob/main/PriPath_main.PNG?raw=true)
 
 
