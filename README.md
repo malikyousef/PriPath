@@ -1,10 +1,10 @@
 **PriPath: Identifying Affected  Pathways from Differential Gene Expression via Grouping, Scoring and Modeling with an Embedded Machine Learning Approach**<br>
 Malik Yousef<sup>1,2</sup> ,Fatma Ozdemir<sup>3, 4</sup>, Amhar Jaber<sup>3</sup>, Jens Allmer<sup>5</sup>, and Burcu Bakir-Gungor<sup>3</sup><br>
-<sup>1</sup> Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel
-<sup>2</sup> Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel
-<sup>3</sup> Department of Computer Engineering, Faculty of Engineering, Abdullah Gul University, Kayseri, Turkey
-<sup>4</sup>University Institute of Digital Communication Systems, Ruhr-University, Germany
-<sup>5</sup> Medical Informatics and Bioinformatics, Institute for Measurement Engineering and Sensor Technology, Hochschule Ruhr West, University of Applied Sciences, Mülheim an der Ruhr, Germany
+<sup>1</sup> Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel<br>
+<sup>2</sup> Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel<br>
+<sup>3</sup> Department of Computer Engineering, Faculty of Engineering, Abdullah Gul University, Kayseri, Turkey<br>
+<sup>4</sup>University Institute of Digital Communication Systems, Ruhr-University, Germany<br>
+<sup>5</sup> Medical Informatics and Bioinformatics, Institute for Measurement Engineering and Sensor Technology, Hochschule Ruhr West, University of Applied Sciences, Mülheim an der Ruhr, Germany<br>
 
 *	Correspondence: malik.yousef@gmail.com;
 
